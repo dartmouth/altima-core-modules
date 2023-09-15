@@ -1,0 +1,11 @@
+apiVersion: v1
+modules:
+  clipboard:
+    - version: v0.0.1
+      url: https://git.dartmouth.edu/research-itc-public/altima-core-modules/-/raw/main/releases/clipboard-v0.0.1.tgz
+  cyberark:
+    - version: v0.0.1
+      url: https://git.dartmouth.edu/research-itc-public/altima-core-modules/-/raw/main/releases/cyberark-v0.0.1.tgz
+  credentialmanager:
+    - version: v0.0.1
+      url: https://git.dartmouth.edu/research-itc-public/altima-core-modules/-/raw/main/releases/credentialmanager-v0.0.1.tgz
