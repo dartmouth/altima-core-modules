@@ -1,0 +1,7 @@
+[binaries]
+curl
+jq
+rq
+
+[modules]
+get_cred

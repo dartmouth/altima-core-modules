@@ -1,0 +1,4 @@
+datastore = 'keychain'     # options: pass, keychain
+primary_credential_username = 'f000000'
+primary_credential_path = 'prod/f000000'
+primary_credential_alias = 'netidpw'

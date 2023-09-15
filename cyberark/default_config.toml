@@ -1,0 +1,11 @@
+base_url = 'https://pvwa.dartmouth.edu'
+api_credential_path = 'prod/f000000'
+api_credential_username = 'f000000'
+
+[[accounts]]
+id = ''
+path = ''
+
+[[accounts]]
+id = ''
+path = ''

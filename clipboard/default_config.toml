@@ -1,0 +1,1 @@
+command = 'pbcopy'         # options: pbcopy, clip_exe, xclip
